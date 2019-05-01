@@ -11,9 +11,9 @@ import (
 	"math/big"
 
 	"github.com/aead/chacha20"
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
+	"github.com/mraksoll4/btcd/btcec"
+	"github.com/mraksoll4/btcd/chaincfg"
+	"github.com/mraksoll4/btcutil"
 )
 
 const (
