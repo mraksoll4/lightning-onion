@@ -4,7 +4,7 @@ go:
   - "1.10"
 sudo: false
 install:
-  - go get -v github.com/lightningnetwork/lightning-onion
+  - go get -v github.com/mraksoll4/lightning-onion
   - go get -v github.com/davecgh/go-spew/spew
 script:
   - export PATH=$PATH:$HOME/gopath/bin

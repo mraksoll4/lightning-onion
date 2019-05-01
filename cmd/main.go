@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	sphinx "github.com/lightningnetwork/lightning-onion"
+	sphinx "github.com/mraksoll4/lightning-onion"
 	"github.com/mraksoll4/btcd/btcec"
 	"github.com/mraksoll4/btcd/chaincfg"
 )
